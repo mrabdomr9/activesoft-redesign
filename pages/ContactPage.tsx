@@ -198,7 +198,7 @@ const ContactPage: React.FC = () => {
                     {language === 'ar' ? 'البريد الإلكتروني:' : 'Email Address:'}
                   </h4>
                   <p className="text-white font-bold text-sm leading-none">
-                    info@activesoft.com.eg
+                    info@activesoft.net
                   </p>
                 </div>
               </div>
